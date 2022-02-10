@@ -24,4 +24,4 @@ The purpose of this exercise is to give you a chance to show us your ability to 
 * You must use React.js or React Native for rendering the UI.
 * You may use any javascript framework you are familiar with to create the application — Express.js, Sails.js, Meteor.js, React Native, etc.
 * You may use frontend UI libraries to make styling easier.
-* Everything else is up to you.
+* Everything else is up to you!
